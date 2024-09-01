@@ -4,3 +4,8 @@ As stated in the on line documentation (<https://workflowsets.tidymodels.org/>),
 I have picked Breast Cancer Wisconsin (Diagnostic) dataset from kaggle.com (<https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset?select=breast-cancer.csv>) which is suitable for the purpose of this work. Specifically, it contains some outcome of some cells analysis made to discover if a cancer exists or not. Breast cancer starts when cells in the breast begin to grow out of control. These cells usually form tumors that can be seen via X-ray or felt as lumps in the breast area. Starting from some measures of these cells, the key challenges is how to classify tumors as malignant (cancerous) or benign(non cancerous).
 
 With this aim in mind, I want to train and test some different models combined with some different preprocess recipes.
+
+This repository contains:
+1. The dataset from UCI: breastCancer.csv.
+2. The Quarto file which contains R code I've used to develop this project: BreastCancerProject.qmd.
+3. The final report in pdf format: BreastCancerProject.pdf.
