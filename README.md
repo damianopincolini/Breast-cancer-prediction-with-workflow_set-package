@@ -7,5 +7,6 @@ With this aim in mind, I want to train and test some different models combined w
 
 This repository contains:
 1. The dataset from UCI: breastCancer.csv.
-2. The Quarto file which contains R code I've used to develop this project: BreastCancerProject.qmd.
-3. The final report in pdf format: BreastCancerProject.pdf.
+2. The Quarto file which contains the code I've used to develop this project and turn it into a pdf report: BreastCancerProject.qmd.
+3. The R file which contains R code I've used to develop this project: BreastCancerProject.R.
+4. The final report in pdf format: BreastCancerProject.pdf.
